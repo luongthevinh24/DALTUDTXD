@@ -1,0 +1,164 @@
+﻿<Window x:Class="_67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.Views.TrangChu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        xmlns:vm="clr-namespace:_67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.ViewModels"
+             xmlns:local="clr-namespace:_67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.Views"
+             xmlns:Fluent="urn:fluent-ribbon" xmlns:vm1="clr-namespace:_67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3"
+        mc:Ignorable="d" 
+             d:DesignHeight="700" d:DesignWidth="1300"
+             Title="TRANG CHỦ"
+             WindowStartupLocation="CenterScreen"
+        Width="900">
+    <Window.DataContext>
+        <vm:ChucNang/>
+    </Window.DataContext>
+
+     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <!-- Ribbon Control -->
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Ribbon x:Name="RibbonWin" IsMinimized="True">
+                <Ribbon.ApplicationMenu>
+                    <RibbonApplicationMenu KeyTip="F">
+                        <RibbonApplicationMenuItem Header="In..." ImageSource="/Resources/Images/printer.png" />
+                        <RibbonApplicationMenuItem Header="Xuất file..." ImageSource="/Resources/Images/export.png" />
+                    </RibbonApplicationMenu>
+                </Ribbon.ApplicationMenu>
+                <!-- Ribbon Tab #1: Home -->
+                <RibbonTab Header="Thư mục" KeyTip="H" >
+                    <!-- Home  group-->
+                    <RibbonGroup x:Name="ClipboardGroup" Header="Thư mục">
+                        <RibbonMenuButton LargeImageSource="/Resources/Images/save.png" Label="Lưu" KeyTip="V">
+                            <RibbonMenuItem ImageSource="/Resources/Images/save.png" Header="Lưu" KeyTip="T"/>
+                            <RibbonMenuItem ImageSource="/Resources/Images/save.png" Header="Lưu dưới dạng..." KeyTip="S"/>
+                        </RibbonMenuButton>
+                        <RibbonButton SmallImageSource="/Resources/Images/cutting.png" Label="Cắt" KeyTip="X" />
+                        <RibbonButton SmallImageSource="/Resources/Images/files.png" Label="Sao chép" KeyTip="C" />
+                    </RibbonGroup>
+                </RibbonTab>
+                <!-- Ribbon Tab #2: -->
+                <RibbonTab Header="Tính toán" KeyTip="I">
+                    <RibbonButton Margin="0,-80,0,0" LargeImageSource="/Resources/Images/calculate.png" 
+                                      Label="Tính diện tích" KeyTip="V"
+                                      Command="{Binding ChuyenDenTrangChonVL}">
+                    </RibbonButton>
+                </RibbonTab>
+                <!-- Ribbon Tab #3: -->
+                <RibbonTab Header="Hiển thị" KeyTip="L">
+                    <RibbonButton Margin="0,-80,0,0" LargeImageSource="/Resources/Images/zoom-in.png" 
+                  Label="Phóng to" KeyTip="V">
+                    </RibbonButton>
+                    <RibbonButton Margin="0,-80,0,0" LargeImageSource="/Resources/Images/zoom-out.png" 
+                  Label="Thu nhỏ" KeyTip="V">
+                    </RibbonButton>
+                </RibbonTab>
+            </Ribbon>
+        </Grid>
+
+        <!-- Nội dung chính: Giao diện lưới -->
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="250"/>  <!-- Sidebar bên trái -->
+                <ColumnDefinition Width="*"/>    <!-- Vùng hiển thị bản vẽ -->
+            </Grid.ColumnDefinitions>
+
+            <!-- Sidebar bên trái -->
+            <StackPanel Grid.Column="0" Background="LightGray" Margin="10">
+                <TextBlock Margin="0,20,0,0" Text="Tiết diện dầm" FontWeight="Bold"/>
+                <ComboBox BorderThickness="2" Margin="0,10,0,20" Background="White" x:Name="chonTietDienDam" SelectionChanged="ThayDoiTietDienDam" SelectedIndex="{Binding TietDienDamDaChon, Mode=TwoWay}">
+                    <ComboBoxItem Content="Tiết diện chữ T"/>
+                    <ComboBoxItem Content="Tiết diện chữ nhật"/>
+                </ComboBox>
+                <TextBlock Text="Cốt thép" FontWeight="Bold"/>
+                <ComboBox x:Name="chonCotThep"  BorderThickness="2" Margin="0,10,0,20" Background="White" SelectedIndex="{Binding ChonCotThep}">
+                    <ComboBoxItem Content="CB240-T"/>
+                    <ComboBoxItem Content="CB300-T"/>
+                    <ComboBoxItem Content="CB400-V"/>
+                    <ComboBoxItem Content="CB500-V"/>
+                </ComboBox>
+                <TextBlock Text="Bê tông" FontWeight="Bold"/>
+                <ComboBox x:Name="chonBeTong" BorderThickness="2" Margin="0,10,0,20" Background="White" SelectedIndex="{Binding ChonBeTong}">
+                    <ComboBoxItem Content="B15"/>
+                    <ComboBoxItem Content="B20"/>
+                    <ComboBoxItem Content="B25"/>
+                    <ComboBoxItem Content="B30"/>
+                    <ComboBoxItem Content="B35"/>
+                    <ComboBoxItem Content="B40"/>
+                    <ComboBoxItem Content="B45"/>
+                    <ComboBoxItem Content="B50"/>
+                    <ComboBoxItem Content="B55"/>
+                    <ComboBoxItem Content="B60"/>
+                    <ComboBoxItem Content="B70"/>
+                    <ComboBoxItem Content="B80"/>
+                    <ComboBoxItem Content="B90"/>
+                </ComboBox>
+                <TextBlock Text="Moment" FontWeight="Bold"/>
+                <TextBox x:Name="nhapMomen"
+                        FontSize="13"
+                        FontFamily="Segoe UI"
+                        Background="Transparent"
+                        FontWeight="Medium"
+                        Foreground="Black"
+                        CaretBrush="LightGray"
+                        BorderBrush="DarkGray"
+                        BorderThickness="0,0,0,1"
+                        Height="28"
+                        VerticalContentAlignment="Center"
+                        Margin="0,5,0,0"        
+                        Text="{Binding Moment, UpdateSourceTrigger=PropertyChanged}"/>
+                
+                <!--TextBlock để hiển thị hướng dẫn nhập momen-->
+                <TextBlock IsHitTestVisible="False" Text="Nhập vào momen..." VerticalAlignment="Center" HorizontalAlignment="Left" Margin="0,-20,0,50" Foreground="DarkGray">
+                    <TextBlock.Style>
+                        <Style TargetType="{x:Type TextBlock}">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding Text, ElementName=inputMomen}" Value="">
+                                    <Setter Property="Visibility" Value="Visible"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </TextBlock.Style>
+                </TextBlock>
+                
+                <Grid Margin="0,50,0,0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="80"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="120"/>
+                        <ColumnDefinition Width="50"/>
+                        <ColumnDefinition Width="50"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Button Grid.Column="0" Grid.Row="0" 
+                            Width="100" Height="50" 
+                            Background="White" 
+                            Content="Tiếp"
+                            Foreground="Black"
+                            Command="{Binding ChuyenDenTrangChonVL}"/>
+                    <Button Click="ClearButton" Grid.Column="1" Grid.Row="0" 
+                            Width="100" Height="50" 
+                            Background="White" 
+                            Content="Xóa"
+                            Foreground="Black"
+                            Grid.ColumnSpan="2"/>
+                </Grid>
+            </StackPanel>
+
+
+            <Canvas Grid.Column="1">
+                <Image x:Name="SectionImage" Height="400" Width="400"/>
+            </Canvas>
+        </Grid>
+    </Grid>
+</Window>

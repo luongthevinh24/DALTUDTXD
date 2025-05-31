@@ -1,0 +1,299 @@
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.exe
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.deps.json
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.runtimeconfig.json
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.pdb
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj.AssemblyReference.cache
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\BindingPasswordBox.g.cs
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangNhap.g.cs
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\App.g.cs
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3_MarkupCompile.cache
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3_MarkupCompile.lref
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\App.baml
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\BindingPasswordBox.baml
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangNhap.baml
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.g.resources
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.GeneratedMSBuildEditorConfig.editorconfig
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.AssemblyInfoInputs.cache
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.AssemblyInfo.cs
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj.CoreCompileInputs.cache
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LT.3ECB452B.Up2Date
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\refint\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.pdb
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.genruntimeconfig.cache
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\ref\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangKy.g.cs
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangKy.baml
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangChu.g.cs
+C:\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangChu.baml
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.exe
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.deps.json
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.runtimeconfig.json
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.pdb
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\Fluent.dll
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj.AssemblyReference.cache
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\BindingPasswordBox.g.cs
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\ChonVatLieu.g.cs
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\HienThi.g.cs
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangChu.g.cs
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangKy.g.cs
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangNhap.g.cs
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3_MarkupCompile.cache
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3_MarkupCompile.lref
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\App.baml
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\BindingPasswordBox.baml
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\ChonVatLieu.baml
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\HienThi.baml
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangChu.baml
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangKy.baml
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangNhap.baml
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.g.resources
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.AssemblyInfoInputs.cache
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.AssemblyInfo.cs
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj.CoreCompileInputs.cache
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LT.3ECB452B.Up2Date
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\refint\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.pdb
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.genruntimeconfig.cache
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\ref\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3_Content.g.cs
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TaoFileMoi.g.cs
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TaoFileMoi.baml
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangKetQua.g.cs
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangKetQua.baml
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\ThayDoiThongSo.g.cs
+C:\Users\luong\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\ThayDoiThongSo.baml
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.exe
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.deps.json
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.runtimeconfig.json
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.pdb
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\bin\Debug\net8.0-windows\Fluent.dll
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj.AssemblyReference.cache
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\Views\BindingPasswordBox.g.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\Views\ChonVatLieu.g.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\Views\HienThi.g.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\Views\TaoFileMoi.g.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\Views\ThayDoiThongSo.g.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\Views\TrangChu.g.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\Views\TrangDangKy.g.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\Views\TrangDangNhap.g.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\Views\TrangKetQua.g.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3_Content.g.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3_MarkupCompile.cache
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3_MarkupCompile.lref
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\App.baml
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\Views\BindingPasswordBox.baml
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\Views\ChonVatLieu.baml
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\Views\HienThi.baml
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\Views\TaoFileMoi.baml
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\Views\ThayDoiThongSo.baml
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\Views\TrangChu.baml
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\Views\TrangDangKy.baml
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\Views\TrangDangNhap.baml
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\Views\TrangKetQua.baml
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.g.resources
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.AssemblyInfoInputs.cache
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.AssemblyInfo.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\67TH3_LT.3ECB452B.Up2Date
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\refint\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.pdb
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.genruntimeconfig.cache
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3 (1)\obj\Debug\net8.0-windows\ref\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.exe
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.deps.json
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.runtimeconfig.json
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.pdb
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\Fluent.dll
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj.AssemblyReference.cache
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\BindingPasswordBox.g.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangChu.g.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangKy.g.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangNhap.g.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3_Content.g.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3_MarkupCompile.cache
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3_MarkupCompile.lref
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\App.baml
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\BindingPasswordBox.baml
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangChu.baml
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangKy.baml
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangNhap.baml
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.g.resources
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.AssemblyInfoInputs.cache
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.AssemblyInfo.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LT.3ECB452B.Up2Date
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\refint\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.pdb
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.genruntimeconfig.cache
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\ref\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TinhToanChuNhat.g.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TinhToanChuT.g.cs
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TinhToanChuNhat.baml
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TinhToanChuT.baml
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj.AssemblyReference.cache
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\BindingPasswordBox.g.cs
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TinhToanChuNhat.g.cs
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TinhToanChuT.g.cs
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangChu.g.cs
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangKy.g.cs
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangNhap.g.cs
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3_Content.g.cs
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3_MarkupCompile.cache
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3_MarkupCompile.lref
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\refint\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.pdb
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.exe
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.deps.json
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.runtimeconfig.json
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.pdb
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\Fluent.dll
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\App.baml
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\BindingPasswordBox.baml
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TinhToanChuNhat.baml
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TinhToanChuT.baml
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangChu.baml
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangKy.baml
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangNhap.baml
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.g.resources
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.AssemblyInfoInputs.cache
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.AssemblyInfo.cs
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LT.3ECB452B.Up2Date
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.genruntimeconfig.cache
+C:\Users\Laptop Dell\OneDrive\Máy tính\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\ref\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\BindingPasswordBox.g.cs
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TinhToanChuNhat.g.cs
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TinhToanChuT.g.cs
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangChu.g.cs
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangKy.g.cs
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangNhap.g.cs
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3_Content.g.cs
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3_MarkupCompile.cache
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3_MarkupCompile.lref
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\refint\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.pdb
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.exe
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.deps.json
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.runtimeconfig.json
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.pdb
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\Fluent.dll
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\App.baml
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\BindingPasswordBox.baml
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TinhToanChuNhat.baml
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TinhToanChuT.baml
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangChu.baml
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangKy.baml
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangNhap.baml
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.g.resources
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.AssemblyInfo.cs
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LT.3ECB452B.Up2Date
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.genruntimeconfig.cache
+C:\Users\Admin\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\ref\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.exe
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.deps.json
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.runtimeconfig.json
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.pdb
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\Fluent.dll
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj.AssemblyReference.cache
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\BindingPasswordBox.g.cs
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TinhToanChuNhat.g.cs
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TinhToanChuT.g.cs
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangChu.g.cs
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangKy.g.cs
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangNhap.g.cs
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3_Content.g.cs
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3_MarkupCompile.cache
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3_MarkupCompile.lref
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\App.baml
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\BindingPasswordBox.baml
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TinhToanChuNhat.baml
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TinhToanChuT.baml
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangChu.baml
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangKy.baml
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\Views\TrangDangNhap.baml
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.g.resources
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.AssemblyInfoInputs.cache
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.AssemblyInfo.cs
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LT.3ECB452B.Up2Date
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\refint\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.pdb
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.genruntimeconfig.cache
+C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\ref\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll

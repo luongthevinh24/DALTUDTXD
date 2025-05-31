@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "40/XkUoyoH4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Laptop Dell\\.nuget\\packages\\controlzex\\7.0.0\\controlzex.7.0.0.nupkg.sha512",
+    "C:\\Users\\Laptop Dell\\.nuget\\packages\\fluent.ribbon\\11.0.0\\fluent.ribbon.11.0.0.nupkg.sha512",
+    "C:\\Users\\Laptop Dell\\.nuget\\packages\\materialdesigncolors\\5.2.1\\materialdesigncolors.5.2.1.nupkg.sha512",
+    "C:\\Users\\Laptop Dell\\.nuget\\packages\\materialdesignthemes\\5.2.1\\materialdesignthemes.5.2.1.nupkg.sha512",
+    "C:\\Users\\Laptop Dell\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.77\\microsoft.xaml.behaviors.wpf.1.1.77.nupkg.sha512",
+    "C:\\Users\\Laptop Dell\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

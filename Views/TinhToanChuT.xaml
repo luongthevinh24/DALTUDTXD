@@ -1,0 +1,120 @@
+﻿<Window x:Class="_67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.Views.TinhToanChuT"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:_67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.Views" xmlns:vm="clr-namespace:_67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.ViewModels"
+        Title="TÍNH TOÁN TIẾT DIỆN CHỮ T" Height="720" Width="914"
+             ResizeMode="NoResize"
+             WindowStartupLocation="CenterScreen">
+    <Window.DataContext>
+        <vm:ChucNang/>
+     </Window.DataContext>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="550"/>
+            <ColumnDefinition Width="350"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="320"/>
+            <RowDefinition Height="250"/>
+            <RowDefinition Height="150"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Column="0" Grid.Row="0" Grid.RowSpan="5" Height="700" 
+                    Background="Gray" Width="550">
+            <DataGrid x:Name="BangThongSo" AutoGenerateColumns="False" ItemsSource="{Binding dsm}"
+          HorizontalAlignment="Left" VerticalAlignment="Top" Margin="30,10,0,0"
+          Height="200" Width="490"
+          IsReadOnly="True" SelectionMode="Single"
+          SelectedItem="{Binding ChonThongSo, Mode=TwoWay}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="STT" Binding="{Binding STT}" Width="60"/>
+                    <DataGridTextColumn Header="Chọn thép" Binding="{Binding MatBang}" Width="180"/>
+                    <DataGridTextColumn Header="Tổng diện tích As" Binding="{Binding BeTong}" Width="150"/>
+                    <DataGridTextColumn Header="Số thanh" Binding="{Binding CotThepDoc}"/>
+                </DataGrid.Columns>
+
+            </DataGrid>
+        </Grid>
+
+
+        <GroupBox Header="Kích thước dầm" HorizontalAlignment="Right" Width="320" Height="300"
+                  VerticalAlignment="Top" Margin="0,0,15,0"
+                  Grid.Row="0" Grid.Column="1" BorderThickness="2">
+            <StackPanel Margin="10">
+                <TextBlock Text="Chiều cao dầm (h):" VerticalAlignment="Center"/>
+                <TextBox Text="{Binding H, UpdateSourceTrigger=PropertyChanged}" Margin="5"/>
+
+                <TextBlock Text="Chiều rộng dầm (b):" VerticalAlignment="Center"/>
+                <TextBox Text="{Binding B, UpdateSourceTrigger=PropertyChanged}" Margin="5"/>
+
+                <TextBlock Text="Chiều rộng cánh (bf):" VerticalAlignment="Center"/>
+                <TextBox Text="{Binding Bf, UpdateSourceTrigger=PropertyChanged}" Margin="5"/>
+
+                <TextBlock Text="Chiều cao cánh (hf):" VerticalAlignment="Center"/>
+                <TextBox Text="{Binding Hf, UpdateSourceTrigger=PropertyChanged}" Margin="5"/>
+
+                <TextBlock Text="Chiều dài dầm (L):" VerticalAlignment="Center"/>
+                <TextBox Text="{Binding L, UpdateSourceTrigger=PropertyChanged}"/>
+            </StackPanel>
+            <GroupBox.Style>
+                <Style TargetType="GroupBox">
+                    <Setter Property="HeaderTemplate">
+                        <Setter.Value>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding}" Foreground="Black" FontWeight="Bold" FontSize="14"/>
+                            </DataTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </GroupBox.Style>
+        </GroupBox>
+
+        <GroupBox Header="Kích thước dầm" HorizontalAlignment="Center" Width="320" Height="300"
+          VerticalAlignment="Top" Margin="0,0,10,0"
+          Grid.Row="1" Grid.Column="1" BorderThickness="2" Grid.RowSpan="2">
+            <StackPanel Margin="10"  Height="276">
+                <TextBlock Text="Rb (Bê tông):" VerticalAlignment="Center"/>
+                <TextBox Text="{Binding Rb, Mode=OneWay}" IsReadOnly="True" Background="#FFF" Margin="5"/>
+
+                <TextBlock Text="Rbt (Bê tông):" VerticalAlignment="Center"/>
+                <TextBox Text="{Binding Rbt, Mode=OneWay}" IsReadOnly="True" Background="#FFF" Margin="5"/>
+
+                <TextBlock Text="Rs (Cốt thép):" VerticalAlignment="Center"/>
+                <TextBox Text="{Binding Rs, Mode=OneWay}" IsReadOnly="True" Background="#FFF" Margin="5"/>
+                <TextBlock Text="Er:" VerticalAlignment="Center"/>
+                <TextBox Text="{Binding Er, Mode=OneWay}" IsReadOnly="True" Background="#FFF" Margin="5"/>
+
+                <TextBlock Text="Ar:" VerticalAlignment="Center"/>
+                <TextBox Text="{Binding Ar, Mode=OneWay}" IsReadOnly="True" Background="#FFF" Margin="5"/>
+            </StackPanel>
+            <GroupBox.Style>
+                <Style TargetType="GroupBox">
+                    <Setter Property="HeaderTemplate">
+                        <Setter.Value>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding}" Foreground="Black" FontWeight="Bold" FontSize="14"/>
+                            </DataTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </GroupBox.Style>
+        </GroupBox>
+
+
+        <StackPanel Grid.Row="2" Grid.Column="1" Orientation="Horizontal"
+            HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,20,0,0">
+            <Button  Content="Tính toán"
+            Width="120" Height="40" Margin="10"
+            Background="#105FAD" BorderBrush="#105FAD"
+            Command="{Binding TinhToanCommand}"/>
+
+            <Button Content="Hủy bỏ"
+            Width="120" Height="40" Margin="10"
+            Background="#105FAD" BorderBrush="#105FAD"
+            Command="{Binding ChuyenDenTrangChu}"/>
+        </StackPanel>
+    </Grid>
+</Window>
