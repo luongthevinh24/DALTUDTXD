@@ -42,7 +42,6 @@ namespace _67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.ViewModels
         public ICommand ChuyenDenTrangTinhToanChuNhat { get; }
 
         public ObservableCollection<NguoiDung> ds { get; set; }
-        public ObservableCollection<MauDuLieuBang> dsm { get; set; }
 
         public List<string> DanhSachBeTong { get; } = new() { "B15", "B20","B25", "B30", "B35","B40","B45","B50","B55","B60","B70","B80","B90" };
         public List<string> DanhSachCotThepDoc { get; } = new() { "CB240-T","CB300-T", "CB400-V", "CB500-V" };
@@ -57,17 +56,6 @@ namespace _67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.ViewModels
             ChuyenDenTrangDangNhap = new RelayCommand(VeTrangDangNhap);
             ChuyenDenTrangChu = new RelayCommand(MoTrangChu);
             ChuyenDenTrangChonVL = new RelayCommand(MoTrangChonVL);
-
-            //ChinhSuaThongSo = new RelayCommand(LuuThayDoi);
-
-            dsm = new ObservableCollection<MauDuLieuBang>
-        {
-            new MauDuLieuBang { STT = 1, MatBang = "F_01", BeTong = "B30", CotThepDoc = "CB400-V" },
-            new MauDuLieuBang { STT = 2, MatBang = "F_02", BeTong = "B30", CotThepDoc = "CB400-V" },
-            new MauDuLieuBang { STT = 3, MatBang = "F_03", BeTong = "B30", CotThepDoc = "CB400-V" },
-            new MauDuLieuBang { STT = 4, MatBang = "F_04", BeTong = "B25", CotThepDoc = "CB400-V" },
-            new MauDuLieuBang { STT = 5, MatBang = "DH-1", BeTong = "B25", CotThepDoc = "CB400-V" }
-        };
         }
 
         

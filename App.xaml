@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:_67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
              xmlns:viewModels="clr-namespace:_67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.ViewModels" 
              xmlns:views="clr-namespace:_67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.Views"
-             StartupUri="Views/TrangChu.xaml">
+             StartupUri="Views/TrangDangNhap.xaml">
 
 
     <Application.Resources>

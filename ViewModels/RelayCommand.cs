@@ -6,17 +6,11 @@ namespace _67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.ViewModels
     {
         private readonly Action _execute;
         private readonly Func<bool> _canExecute;
-        private Action<object> _executeTinhToan;
 
         public RelayCommand(Action exucute, Func<bool> canExecute = null)
         {
             _execute = exucute;
             _canExecute = canExecute;
-        }
-
-        public RelayCommand(Action<object> executeTinhToan)
-        {
-            this._executeTinhToan = executeTinhToan;
         }
 
         public bool CanExecute(object parameter) => _canExecute == null || _canExecute();

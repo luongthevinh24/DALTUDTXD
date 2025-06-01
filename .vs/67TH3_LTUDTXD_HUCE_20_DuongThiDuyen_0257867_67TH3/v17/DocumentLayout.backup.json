@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\viewmodels\\chucnang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:viewmodels\\chucnang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\views\\trangdangky.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:views\\trangdangky.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\views\\trangdangky.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:views\\trangdangky.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\views\\trangdangnhap.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:views\\trangdangnhap.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\views\\trangchu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:views\\trangchu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\views\\tinhtoanchut.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:views\\tinhtoanchut.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,12 +43,20 @@
       "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:views\\tinhtoanchunhat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\viewmodels\\chucnang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:viewmodels\\chucnang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\views\\trangdangnhap.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:views\\trangdangnhap.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\views\\trangchu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:views\\trangchu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\models\\danhsachnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:models\\danhsachnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\models\\cotthep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:models\\cotthep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\views\\bindingpasswordbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:views\\bindingpasswordbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\views\\tinhtoanchunhat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -35,44 +75,12 @@
       "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:models\\betong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\models\\cotthep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:models\\cotthep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\models\\maudulieubang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:models\\maudulieubang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\views\\trangchu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:views\\trangchu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\views\\trangdangnhap.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:views\\trangdangnhap.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\views\\trangdangky.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:views\\trangdangky.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\views\\trangdangky.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:views\\trangdangky.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\views\\trangdangnhap.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:views\\trangdangnhap.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\views\\bindingpasswordbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:views\\bindingpasswordbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|c:\\users\\laptop dell\\downloads\\67th3_ltudtxd_huce_20_duongthiduyen_0257867_67th3\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E0A4595-6541-4300-AEBF-00DCC3C8CF22}|67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.csproj|solutionrelative:models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,17 +90,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ChucNang.cs",
               "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\ViewModels\\ChucNang.cs",
               "RelativeDocumentMoniker": "ViewModels\\ChucNang.cs",
-              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\ViewModels\\ChucNang.cs",
-              "RelativeToolTip": "ViewModels\\ChucNang.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAowBoAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\ViewModels\\ChucNang.cs*",
+              "RelativeToolTip": "ViewModels\\ChucNang.cs*",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwF4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T21:32:09.129Z",
               "IsPinned": true,
@@ -108,75 +116,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TinhToanChuNhat.xaml",
-              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TinhToanChuNhat.xaml",
-              "RelativeDocumentMoniker": "Views\\TinhToanChuNhat.xaml",
-              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TinhToanChuNhat.xaml",
-              "RelativeToolTip": "Views\\TinhToanChuNhat.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-28T07:42:28.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CotThep.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Models\\CotThep.cs",
-              "RelativeDocumentMoniker": "Models\\CotThep.cs",
-              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Models\\CotThep.cs",
-              "RelativeToolTip": "Models\\CotThep.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBIAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T16:38:30.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "BeTong.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Models\\BeTong.cs",
-              "RelativeDocumentMoniker": "Models\\BeTong.cs",
-              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Models\\BeTong.cs",
-              "RelativeToolTip": "Models\\BeTong.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Title": "TrangChu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TrangChu.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\TrangChu.xaml.cs",
+              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TrangChu.xaml.cs",
+              "RelativeToolTip": "Views\\TrangChu.xaml.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwvyoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T16:38:02.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TinhToanChuT.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TinhToanChuT.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\TinhToanChuT.xaml.cs",
-              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TinhToanChuT.xaml.cs*",
-              "RelativeToolTip": "Views\\TinhToanChuT.xaml.cs*",
-              "ViewState": "AgIAABEAAAAAAAAAAAASwCAAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T08:50:50.778Z",
+              "WhenOpened": "2025-05-23T15:45:54.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-29T15:53:10.326Z",
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Models\\NguoiDung.cs",
+              "RelativeDocumentMoniker": "Models\\NguoiDung.cs",
+              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Models\\NguoiDung.cs",
+              "RelativeToolTip": "Models\\NguoiDung.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T07:57:17.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "TinhToanChuNhat.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TinhToanChuNhat.xaml.cs",
               "RelativeDocumentMoniker": "Views\\TinhToanChuNhat.xaml.cs",
-              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TinhToanChuNhat.xaml.cs*",
-              "RelativeToolTip": "Views\\TinhToanChuNhat.xaml.cs*",
+              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TinhToanChuNhat.xaml.cs",
+              "RelativeToolTip": "Views\\TinhToanChuNhat.xaml.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAwwBsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-31T17:02:59.084Z",
@@ -184,44 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TrangChu.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TrangChu.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\TrangChu.xaml.cs",
-              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TrangChu.xaml.cs",
-              "RelativeToolTip": "Views\\TrangChu.xaml.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwCkAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T15:45:54.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TinhToanChuT.xaml",
-              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TinhToanChuT.xaml",
-              "RelativeDocumentMoniker": "Views\\TinhToanChuT.xaml",
-              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TinhToanChuT.xaml",
-              "RelativeToolTip": "Views\\TinhToanChuT.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-28T07:41:41.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MauDuLieuBang.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Models\\MauDuLieuBang.cs",
-              "RelativeDocumentMoniker": "Models\\MauDuLieuBang.cs",
-              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Models\\MauDuLieuBang.cs",
-              "RelativeToolTip": "Models\\MauDuLieuBang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T07:57:55.96Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -233,7 +167,167 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\ViewModels\\RelayCommand.cs*",
+              "RelativeToolTip": "ViewModels\\RelayCommand.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T10:39:52.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrangDangKy.xaml",
+              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TrangDangKy.xaml",
+              "RelativeDocumentMoniker": "Views\\TrangDangKy.xaml",
+              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TrangDangKy.xaml",
+              "RelativeToolTip": "Views\\TrangDangKy.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-23T16:51:14.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrangDangKy.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TrangDangKy.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\TrangDangKy.xaml.cs",
+              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TrangDangKy.xaml.cs",
+              "RelativeToolTip": "Views\\TrangDangKy.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:51:02.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TinhToanChuT.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TinhToanChuT.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\TinhToanChuT.xaml.cs",
+              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TinhToanChuT.xaml.cs",
+              "RelativeToolTip": "Views\\TinhToanChuT.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAASwCAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:50:50.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrangDangNhap.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TrangDangNhap.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\TrangDangNhap.xaml.cs",
+              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TrangDangNhap.xaml.cs",
+              "RelativeToolTip": "Views\\TrangDangNhap.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T07:18:38.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TrangDangNhap.xaml",
+              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TrangDangNhap.xaml",
+              "RelativeDocumentMoniker": "Views\\TrangDangNhap.xaml",
+              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TrangDangNhap.xaml",
+              "RelativeToolTip": "Views\\TrangDangNhap.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-28T07:18:30.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "DanhSachNguoiDung.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Models\\DanhSachNguoiDung.cs",
+              "RelativeDocumentMoniker": "Models\\DanhSachNguoiDung.cs",
+              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Models\\DanhSachNguoiDung.cs",
+              "RelativeToolTip": "Models\\DanhSachNguoiDung.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T10:15:02.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CotThep.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Models\\CotThep.cs",
+              "RelativeDocumentMoniker": "Models\\CotThep.cs",
+              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Models\\CotThep.cs",
+              "RelativeToolTip": "Models\\CotThep.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:38:30.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BindingPasswordBox.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\BindingPasswordBox.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\BindingPasswordBox.xaml.cs",
+              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\BindingPasswordBox.xaml.cs",
+              "RelativeToolTip": "Views\\BindingPasswordBox.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBMAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:42:24.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-29T15:53:10.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BeTong.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Models\\BeTong.cs",
+              "RelativeDocumentMoniker": "Models\\BeTong.cs",
+              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Models\\BeTong.cs",
+              "RelativeToolTip": "Models\\BeTong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:38:02.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TinhToanChuNhat.xaml",
+              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TinhToanChuNhat.xaml",
+              "RelativeDocumentMoniker": "Views\\TinhToanChuNhat.xaml",
+              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TinhToanChuNhat.xaml",
+              "RelativeToolTip": "Views\\TinhToanChuNhat.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-28T07:42:28.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TinhToanChuT.xaml",
+              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TinhToanChuT.xaml",
+              "RelativeDocumentMoniker": "Views\\TinhToanChuT.xaml",
+              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TinhToanChuT.xaml",
+              "RelativeToolTip": "Views\\TinhToanChuT.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-28T07:41:41.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "TrangChu.xaml",
               "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TrangChu.xaml",
               "RelativeDocumentMoniker": "Views\\TrangChu.xaml",
@@ -244,72 +338,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TrangDangNhap.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TrangDangNhap.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\TrangDangNhap.xaml.cs",
-              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TrangDangNhap.xaml.cs",
-              "RelativeToolTip": "Views\\TrangDangNhap.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T07:18:38.969Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TrangDangKy.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TrangDangKy.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\TrangDangKy.xaml.cs",
-              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TrangDangKy.xaml.cs",
-              "RelativeToolTip": "Views\\TrangDangKy.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T08:51:02.283Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TrangDangKy.xaml",
-              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TrangDangKy.xaml",
-              "RelativeDocumentMoniker": "Views\\TrangDangKy.xaml",
-              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TrangDangKy.xaml",
-              "RelativeToolTip": "Views\\TrangDangKy.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-23T16:51:14.393Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TrangDangNhap.xaml",
-              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TrangDangNhap.xaml",
-              "RelativeDocumentMoniker": "Views\\TrangDangNhap.xaml",
-              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\TrangDangNhap.xaml",
-              "RelativeToolTip": "Views\\TrangDangNhap.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-28T07:18:30.278Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "BindingPasswordBox.xaml",
               "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\BindingPasswordBox.xaml",
               "RelativeDocumentMoniker": "Views\\BindingPasswordBox.xaml",
               "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Views\\BindingPasswordBox.xaml",
               "RelativeToolTip": "Views\\BindingPasswordBox.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-28T08:49:48.936Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "NguoiDung.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Models\\NguoiDung.cs",
-              "RelativeDocumentMoniker": "Models\\NguoiDung.cs",
-              "ToolTip": "C:\\Users\\Laptop Dell\\Downloads\\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\\Models\\NguoiDung.cs",
-              "RelativeToolTip": "Models\\NguoiDung.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T07:57:17.42Z"
+              "WhenOpened": "2025-05-28T08:49:48.936Z",
+              "EditorCaption": ""
             }
           ]
         }

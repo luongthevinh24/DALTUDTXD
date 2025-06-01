@@ -297,3 +297,4 @@ C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257
 C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.pdb
 C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.genruntimeconfig.cache
 C:\Users\Laptop Dell\OneDrive\Documents\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\ref\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.dll
+C:\Users\Laptop Dell\Downloads\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3\obj\Debug\net8.0-windows\67TH3_LTUDTXD_HUCE_20_DuongThiDuyen_0257867_67TH3.sourcelink.json
